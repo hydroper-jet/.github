@@ -4,4 +4,4 @@
 
 Jet is a flexible scripting language.
 
-* Consult the [Language Specification](https://hydroper-jet.github.io/lang/spec/1.0/live).
+* [Consult the language specification](https://hydroper-jet.github.io/lang/spec/1.0/live).
