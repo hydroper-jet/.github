@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="500">
+  <img src="https://github.com/hydroper-jet/lang/blob/master/assets/banner.png" width="500">
 </p>
 
 Jet is a flexible scripting language.
