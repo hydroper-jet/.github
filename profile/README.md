@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/hydroper-jet/lang/blob/master/assets/banner.png" width="500">
+  <img src="https://github.com/hydroper-jet/lang/raw/master/snippets/ExampleFlex.png" width="665">
 </p>
 
-Jet is a flexible scripting language mainly for Adobe AIR.
+Jet is a flexible scripting language being built primarily for Adobe AIR.
 
-* [Consult the language specification](https://hydroper-jet.github.io/lang/spec/1.0/live).
+* [Consult the language specification.](https://hydroper-jet.github.io/lang/spec/1.0/live)
