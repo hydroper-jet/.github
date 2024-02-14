@@ -4,7 +4,9 @@
 
 Jet is a flexible scripting language being built primarily for Adobe AIR.
 
-* [Consult the language specification.](https://hydroper-jet.github.io/lang/spec/1.0/live)
+# Language specification
+
+* [Language specification](https://hydroper-jet.github.io/lang/spec/1.0/live)
 
 # Development log
 
