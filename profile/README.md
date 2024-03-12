@@ -11,3 +11,7 @@ Jet is a flexible scripting language being built primarily for AIR and Node.js.
 # Development log
 
 * [Development log](https://github.com/hydroper-jet/lang/blob/master/misc/development-log.md)
+
+# Patreon
+
+* [Patreon](https://www.patreon.com/posts/100015866)
