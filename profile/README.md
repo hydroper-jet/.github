@@ -2,8 +2,6 @@
   <img src="https://github.com/hydroper-jet/lang/raw/master/snippets/ExampleFlex.png" width="665">
 </p>
 
-Jet is a flexible scripting language being built primarily for AIR and Node.js.
-
 # Language specification
 
 * [Language specification](https://hydroper-jet.github.io/lang/spec/1.0/live)
@@ -11,3 +9,7 @@ Jet is a flexible scripting language being built primarily for AIR and Node.js.
 # Development log
 
 * [Development log](https://github.com/hydroper-jet/lang/blob/master/misc/development-log.md)
+
+# Last update on Jet
+
+* [Slide](https://docs.google.com/presentation/d/1n-eNVfNv_ppI3fTyaPv6ov14tjcDbjeIz53sDRCtj5k)
