@@ -9,7 +9,3 @@
 # Development log
 
 * [Development log](https://github.com/hydroper-jet/lang/blob/master/misc/development-log.md)
-
-# Last update on Jet
-
-* [Slide](https://docs.google.com/presentation/d/1n-eNVfNv_ppI3fTyaPv6ov14tjcDbjeIz53sDRCtj5k)
